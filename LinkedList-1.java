@@ -1,6 +1,4 @@
-//COM/B/01-00128/2021 - BRIAN MUGAMBI
-//COM/B/01-00130/2021 - JOHN MUTURI
-//COM/B/01-00151/2021 - VICTOR MBUGUA
+
 
 public class LinkedList {
     private Node head;
