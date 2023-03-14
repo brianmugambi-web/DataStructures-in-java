@@ -1,0 +1,9 @@
+Group members
+-COM/B/01-00128/2021 BRIAN MUGAMBI
+-COM/B/01-00151/2021 VICTOR MBUGUA
+-COM/B/01-00130/2021 JOHN MUTURI
+-COM/B/01-00133/2021 STEPHEN MUCHIRI
+
+Q1 big O notation is  0(n)
+Q2 big O notation is  0(n)
+Q3 big O notation is  0(n)
